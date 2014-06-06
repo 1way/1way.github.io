@@ -1,0 +1,1 @@
+{"name":"1way.github.io","tagline":"","body":"现在静态博客生成程序很多啊，但是都需要大家安装某些环境，然后去跑程序生成，于是做了一个只需要在网页中写作就可以生成静态博客的东西，调用了github的api，这样可以利用github pages的功能自动生成静态博客，这样整个生成器其实也是个静态网页\r\n","google":"","note":"Don't delete this file! It's used internally to help with page regeneration."}
